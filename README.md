@@ -1,6 +1,11 @@
-# Blogapp | MERN
+# Blogapp
 
 Site hosted: https://blogapp-application.herokuapp.com/
+
+# Key Features
+1. MERN web application
+2. REST API for user and blog posts
+3. JWT Authentication, Google and facebook OAuth authentication
 
 # Getting Started with Create React App
 
