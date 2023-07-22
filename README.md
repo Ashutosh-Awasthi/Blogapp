@@ -1,6 +1,6 @@
 # Blogapp
 
-Site hosted: https://blogapp-application.herokuapp.com/
+Site hosted: (https://busy-pink-walrus-fez.cyclic.app/)
 
 # Key Features
 1. MERN web application
