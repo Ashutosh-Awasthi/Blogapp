@@ -1,6 +1,6 @@
 # Blogapp
 
-Site hosted: (https://busy-pink-walrus-fez.cyclic.app/)
+Site hosted : (https://busy-pink-walrus-fez.cyclic.app/)
 
 # Key Features
 1. MERN web application
