@@ -1,4 +1,4 @@
-# Blogapp
+# Blogapp: A blogging app 
 
 Site hosted : (https://busy-pink-walrus-fez.cyclic.app/)
 
